@@ -1,0 +1,12 @@
+{
+  "Name": "Huggable Scarecrows",
+  "Author": "DragonMaus",
+  "Version": "1.0.0",
+  "Description": "Scarecrows pet your animals for you",
+  "UniqueID": "DragonMaus.HuggableScarecrows",
+  "EntryDll": "HuggableScarecrows.dll",
+  "MinimumApiVersion": "3.8.0",
+  "UpdateKeys": [
+    "GitHub:dragonmaus/huggable-scarecrows"
+  ]
+}
